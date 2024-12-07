@@ -25,3 +25,18 @@ This project uses OpenCV to detect snooker balls of various colors on a table fr
 You can install the required libraries by running:
 ```bash
 pip install opencv-python numpy
+
+
+instructions for running
+clone the git repository
+git clone <repository_url>
+cd <repository_folder>
+
+
+ensure all the libraries and python are installed in your computer
+
+go inside the folder and run command:
+
+python main.py
+
+and enter the vide url your desire color to be selected and the program will run

@@ -29,7 +29,7 @@ pip install opencv-python numpy
 
 instructions for running
 clone the git repository
-git clone https://github.com/zarus101/OpenCV-Intern_Witsense.git
+git clone -b master https://github.com/zarus101/OpenCV-Intern_Witsense.git
 
 
 ensure all the libraries and python are installed in your computer
